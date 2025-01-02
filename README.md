@@ -1,19 +1,10 @@
 # Bank Loan protfolio - Performance Overview
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY1ZTVlNzctMWMxNC00OWUyLWIyOTQtM2FhZmEzZjlkMDJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 **Project overview**
 The Bank Loan Analysis Project evaluates loan performance using two dynamic dashboards: Summary and Overview. The Summary Dashboard provides a high-level view of 38.6K loan applications, with a 6.9% MoM growth. It highlights the dominance of good loans (86.18%), with $370.2M funded and $435.8M repaid, versus bad loans (13.82%), with $65.5M funded and $37.3M repaid. Loan statuses like fully paid, charged off, and current are analyzed, alongside comparisons of interest rates and debt-to-income (DTI) metrics, showing lower risks for good loans.
 
-**Decision to use Power BI to harness the power of data analytics**
-AtliQ Hardware, a rapidly expanding organization, has adopted Power BI to harness the power of data analytics. This strategic initiative seeks to unlock actionable insights across key business functions, including finance, sales, marketing, and supply chain, ultimately driving informed decision-making and a sustainable competitive advantage.
-
-I, Sangeeta Yadav, successfully executed this project by leveraging the Codebasics Power BI Course and used the following tools and techniques:
-
-**Tech Stacks:**
-- SQL for data extraction and manipulation
-- Power BI Desktop for data visualization and reporting
-- Excel for data preparation and analysis
+**Tech Stacks:*
+- Excel for data preparation, analysis & Chart generation
 
 **Approach to Creating Loan Portfolio Summary Dashboard:**
 *4-Step Methodology*
@@ -51,25 +42,12 @@ The Overview Dashboard focuses on trends, showing steady growth from 2.3K applic
   - *Loan Status Grid View:* A tabular representation summarizes total applications, funded amounts, repayments, interest rates, and DTI across different loan statuses.
 
 
- 
-Overview the Dashboard 
+The Overview Dashboard provides dynamic visualizations to identify trends and distribution patterns:
 ![Overview_dashboard](https://github.com/user-attachments/assets/1d360c47-8b21-4124-b146-511f922c75e4)
 
-The Overview Dashboard provides dynamic visualizations to identify trends and distribution patterns:
-
-Monthly Trends by Issue Date (Line Chart):
-
-Tracks total applications, funded amounts, and repayments month-over-month to uncover seasonality and long-term trends.
-Regional Analysis by State (Filled Map):
-
-Displays loan activity by state, revealing geographic lending hotspots and disparities.
-Loan Term Analysis (Donut Chart):
-
-Breaks down loan metrics by term lengths (e.g., 36 and 60 months), offering insights into term preferences.
-Employment Length Analysis (Bar Chart):
-
-Explores lending metrics by borrower employment duration, linking employment history with loan performance.
-Loan Purpose Breakdown (Bar Chart):
-
-Categorizes loans by purpose (e.g., debt consolidation, credit card repayment), highlighting key borrowing motivations.
+- *Monthly Trends by Issue Date (Line Chart):* Tracks total applications, funded amounts, and repayments month-over-month to uncover seasonality and long-term trends.
+- *Regional Analysis by State (Filled Map):* Displays loan activity by state, revealing geographic lending hotspots and disparities.
+- *Loan Term Analysis (Donut Chart):* Breaks down loan metrics by term lengths (e.g., 36 and 60 months), offering insights into term preferences.
+- *Employment Length Analysis (Bar Chart):* Explores lending metrics by borrower employment duration, linking employment history with loan performance.
+- *Loan Purpose Breakdown (Bar Chart):* Categorizes loans by purpose (e.g., debt consolidation, credit card repayment), highlighting key borrowing motivations.
 
