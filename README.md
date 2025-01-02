@@ -3,7 +3,7 @@
 **Project overview**
 The Bank Loan Analysis Project evaluates loan performance using two dynamic dashboards: Summary and Overview. The Summary Dashboard provides a high-level view of 38.6K loan applications, with a 6.9% MoM growth. It highlights the dominance of good loans (86.18%), with $370.2M funded and $435.8M repaid, versus bad loans (13.82%), with $65.5M funded and $37.3M repaid. Loan statuses like fully paid, charged off, and current are analyzed, alongside comparisons of interest rates and debt-to-income (DTI) metrics, showing lower risks for good loans.
 
-**Tech Stacks:*
+**Tech Stacks:**
 - Excel for data preparation, analysis & Chart generation
 
 **Approach to Creating Loan Portfolio Summary Dashboard:**
